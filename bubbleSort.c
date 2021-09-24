@@ -27,7 +27,7 @@ void Bubble(int A[], int n)
 
 int main()
 {
-	int A[] = {3, 9, 10, 4, 5, 11, 2, 13, 7, 8};
+	int A[] = {3, 9, 10, 4, 5, 11, 2, 13, 7, 8, 22, 34, 1, 29};
 	int n = sizeof(A)/sizeof(A[0]);
 	int i;
 
